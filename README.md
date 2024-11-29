@@ -132,9 +132,9 @@
 
 ## VAJIRA MD DEVELOPER TEAM
 
-| <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/44ff060a7b96ff6c0a42a.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/yn4h3lb.jpg" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://pomf2.lain.la/f/kph4trq.jpg" width=90 height=90></a> | <a href=""><img src="https://pomf2.lain.la/f/cezntw1.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> |
+| <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/aqi35mmg.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/yn4h3lb.jpg" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://pomf2.lain.la/f/kph4trq.jpg" width=90 height=90></a> | <a href=""><img src="https://pomf2.lain.la/f/cezntw1.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> |
 |---|---|---|---|---|---|
-| **[VAJIRA RATHNAYAKA](https://github.com/VajiraTech)**</br>Founder & Developer</br> | **[Peter](https://github.com/VajiraTech)**</br>  CO-Coder</br> | **[Agent panda ](https://github.com/VajiraTech)**</br>Bug Suplier</br> | **[Rasiya999](https://github.com/VajiraTech)**</br>Tool Sulpier| **[Theeks🙂hana rathnaweera](https://github.com/Aadhi777777)**</br>Group & Management| **[Rukshan Md](https://github.com/Rukshanruka/Rukshan-MD-NEW)**</br> Bug Tester |
+| **[VAJIRA RATHNAYAKA](https://github.com/VajiraTech)**</br>Founder & Developer</br> | **[Peter](https://github.com/VajiraTech)**</br>  CO-Coder</br> | **[Agent panda ](https://github.com/VajiraTech)**</br>Bug Suplier</br> | **[Rasiya999](https://github.com/VajiraTech)**</br>Tool Sulpier| **[Theekshana rathnaweera](https://github.com/Aadhi777777)**</br>Group & Management| **[Rukshan Md](https://github.com/Rukshanruka/Rukshan-MD-NEW)**</br> Bug Tester |
 
 
 
