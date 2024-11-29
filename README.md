@@ -132,9 +132,9 @@
 
 ## VAJIRA MD DEVELOPER TEAM
 
-| <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/44ff060a7b96ff6c0a42a.jpg" width=90 height=90></a> | <a href=""><img src="" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://telegra.ph/file/b194f9be48ca8e09e7a6b.jpg" width=90 height=90></a> | <a href=""><img src="" width=90 height=90></a> | <a href="https://github.com/Aadhi777777"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/Rukshanruka/Rukshan-MD-NEW"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> |
+| <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/44ff060a7b96ff6c0a42a.jpg" width=90 height=90></a> | <a href=""><img src="" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://pomf2.lain.la/f/kph4trq.jpg" width=90 height=90></a> | <a href=""><img src="" width=90 height=90></a> | <a href="https://github.com/Aadhi777777"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/Rukshanruka/Rukshan-MD-NEW"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> |
 |---|---|---|---|---|---|
-| **[VAJIRA RATHNAYAKA](https://github.com/VajiraTech)**</br>Founder & Developer</br> | **[Kushan Sewmina](https://github.com/kushansewmina1234)**</br>  CO-Coder</br> | **[Ayodya Vichakshana ](https://github.com/20070808lk)**</br>CO-Coder</br> | **[Themi   Sadas](https://github.com/Darksadas)**</br>Designer & Management| **[Theekshana rathnaweera](https://github.com/Aadhi777777)**</br>Group & Management| **[Rukshan Md](https://github.com/Rukshanruka/Rukshan-MD-NEW)**</br> Bug Tester |
+| **[VAJIRA RATHNAYAKA](https://github.com/VajiraTech)**</br>Founder & Developer</br> | **[Peter](https://github.com/VajiraTech)**</br>  CO-Coder</br> | **[Agent panda ](https://github.com/VajiraTech)**</br>CO-Coder</br> | **[Rasiya999](https://github.com/VajiraTech)**</br>Designer & Management| **[Theeks🙂hana rathnaweera](https://github.com/Aadhi777777)**</br>Group & Management| **[Rukshan Md](https://github.com/Rukshanruka/Rukshan-MD-NEW)**</br> Bug Tester |
 
 
 
