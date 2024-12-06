@@ -75,6 +75,8 @@ l
 
 ## 🎀 STEP 02 -  Get Session
 
+<a href="https://vajiraqrveb-1d064bcd8502.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+
 <a href="https://stuck-godiva-vajiratech2003-a4248d0c.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 `Not come session id use a vpn and try again`
