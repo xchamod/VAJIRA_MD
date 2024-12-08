@@ -62,6 +62,11 @@ l
 <div align="center">
  
   <h1>👇 DEPLOY NOW 👇</h1>
+
+```How to deploy in Heroku```
+
+https://youtu.be/bcpdqkN3UCM?si=XjatVGZ2gYv5LXiQ
+  
 </div>
 
 <br>
